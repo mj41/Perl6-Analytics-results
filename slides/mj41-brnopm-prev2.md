@@ -1,7 +1,6 @@
 ### <a id="id-toc"></a> Table of Contents
 - [Table of Contents](#id-toc)
 - [Data summary](#id-data-summary)
-- [Perl 6 Essentials](#id-p6e)
 - [Main projects - commits](#id-mp-commits)
 - [Main projects - authors](#id-mp-authors)
 - [Top 30 authors](#id-top30)
@@ -16,9 +15,6 @@
 
 ### <a id="id-data-summary"></a> [↑](#id-toc) Data Summary
 ![slide 01](https://raw.githubusercontent.com/mj41/Perl6-Analytics-results/master/slides/mj41-brnopm-prev2/pres-d01t01.png)
-
-### <a id="id-p6e"></a> [↑](#id-toc) Perl 6 Essentials
-![slide 02](https://raw.githubusercontent.com/mj41/Perl6-Analytics-results/master/slides/mj41-brnopm-prev2/pres-d01t02.png)
 
 ### <a id="id-mp-commits"></a> [↑](#id-toc) Main projects - commits
 ![slide 03](https://raw.githubusercontent.com/mj41/Perl6-Analytics-results/master/slides/mj41-brnopm-prev2/pres-d01t03.png)
